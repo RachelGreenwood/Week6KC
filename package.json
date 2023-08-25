@@ -1,0 +1,19 @@
+{
+  "name": "week6kc",
+  "version": "1.0.0",
+  "description": "// ### SetUp // You need to use express to do this exercise.  // So, please do this locally and add it to your **KC** folder on Github and submit it with a PR",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
